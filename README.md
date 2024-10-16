@@ -1,0 +1,2 @@
+# Luique CV Resume Personal Portfolio
+ Luique – CV Resume & Personal Portfolio Jekyll Theme is best suited for developer, designer, programmer, freelancer, writer, lawyer, musician, trainer, photographer or any other professions. Luique is comes with: Dark & Light versions, Live Switcher Mode, Beautiful animations, Parallax, Awesome Portfolio with Filters. Perfectly for placing information about your experience, skills, education, works and expertise.
